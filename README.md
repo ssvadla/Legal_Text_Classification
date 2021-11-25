@@ -1,6 +1,7 @@
 # Legal_Text_Classification
 
 Train data creation:
+
     Labeled Data : Create a folder with name Labeled and copy the 11 train datasets into it.
     Unlabled Data : Create a folder with name Unlabeled and copy the unlabeled data into it.
     Test Data: Create a folder with name Test and copy the test data into it.
