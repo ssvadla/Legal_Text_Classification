@@ -53,6 +53,7 @@ Steps to run the code:
 
 # Supervised Learning
 
-    Step1: Upload all the labeled, unlabeled and test data into the google drive and mention the path of the files to the respective variables in the code.
+    All the codes that are related to supervised Learning can be run using the below steps.
+    Step1: Upload all the labeled and test data into the google drive and mention the path of the files to the respective variables in the code.
     Step2: Run all the cells in the notebook.
 
