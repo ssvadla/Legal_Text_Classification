@@ -56,4 +56,11 @@ Steps to run the code:
     All the codes that are related to supervised Learning can be run using the below steps.
     Step1: Upload all the labeled and test data into the google drive and mention the path of the files to the respective variables in the code.
     Step2: Run all the cells in the notebook.
+    
+    For Supervised_allData
+    
+    Comment and uncomment the classifiers according to the experiment.
+    For example: If you need to run the LightGBM, uncomment the LightGBM classifier and comment the all the other classifiers.
+    
+    
 
