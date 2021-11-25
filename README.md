@@ -38,3 +38,11 @@ Steps to run the code:
 Step1: Upload all the labeled, unlabeled and test data into the google drive and mention the path of the files to the respective variables in the code.
 Step2: All the results are written into a text file. Mention the path of the file names.
 Step3: Run all the cells in the notebook.
+
+#PseudoLabeling with LighGBM
+
+Step1: Upload all the labeled, unlabeled and test data into the google drive and mention the path of the files to the respective variables in the code.
+Step2: All the results are written into a text file. Mention the path of the file names.
+Step3: Change the variables 'Threshold' and 'unlabel_size_list' accoding to the experiment.
+Step3: Run all the cells in the notebook.
+
