@@ -28,9 +28,9 @@ Output: A classier that takes an unlabeled document and predicts a class label
 
 Steps to run the code:
 
-  Step1: Upload all the labeled, unlabeled and test data into the google drive and mention the path of the files to the respective variables in the code.
-  Step2: All the results are written into a text file. Mention the path of the file names.
-  Step3: Run all the cells in the notebook.
+    Step1: Upload all the labeled, unlabeled and test data into the google drive and mention the path of the files to the respective variables in the code.
+    Step2: All the results are written into a text file. Mention the path of the file names.
+    Step3: Run all the cells in the notebook.
 
 # EM_03_Modular_UL Expectation Maximization
 
